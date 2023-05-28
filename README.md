@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Python and ML related Projects and Documentations.
 - 💬 Ask me about SEO Writing, Python, C++, java, Javascript, HTML and CSS.
 - 📫 How to reach me: https://www.linkedin.com/in/wordpress-and-seoexpert/
+- ⚡ Read my blog at Hashnode: https://hashnode.com/@daniyallodhi
 
 <h2>Lets Connect and Grow Together!</h2>
 
