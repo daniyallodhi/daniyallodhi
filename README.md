@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on Python.
 - 🌱 I’m currently learning Machine Learning.
-- 👯 I’m looking to collaborate on Python and ML related Projects and Documentations.
+- 👯 I’m looking to collaborate on Python and ML-related Projects and Documentation.
 - 💬 Ask me about SEO Writing, Python, C++, java, Javascript, HTML and CSS.
-- 📫 How to reach me: https://www.linkedin.com/in/wordpress-and-seoexpert/
+- 📫 How to reach me: www.linkedin.com/in/daniyallodhi
 - ⚡ Read my blog at Hashnode: https://hashnode.com/@daniyallodhi
 
 <h2>Lets Connect and Grow Together!</h2>
